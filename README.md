@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Checkered&color=auto&height=200&section=header&text=Shim-geonwoo-nl-[PM]&fontSize=30&fontColor=FFFFFF />
+<img src="https://capsule-render.vercel.app/api?type=Checkered&color=auto&height=200&section=header&text=Shim-geonwoo-nl-[PM]&fontSize=30&fontColor=FFFFFF" />
 
 
 <br/>
