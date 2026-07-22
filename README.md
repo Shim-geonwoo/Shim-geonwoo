@@ -1,1 +1,3 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=71BD84FF&height=300&section=header&text=Shim-geonwoo%20|%20PM&fontSize=50&fontColor=FFFFFF" />
+Skills
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white, https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white, https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black, https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge, https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
