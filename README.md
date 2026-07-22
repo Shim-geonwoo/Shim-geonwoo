@@ -1,6 +1,6 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=14452F&height=300&section=header&text=Shim-geonwoo%20|%20PM&fontSize=50&fontColor=FFFFFF" />
 
-<div align="center">
 
 <br/>
 
