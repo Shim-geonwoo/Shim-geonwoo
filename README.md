@@ -1,7 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=Checkered&color=auto&height=200&section=header&text=Shim-geonwoo%20|%20PM&fontSize=30&fontColor=FFFFFF" />
-<br/>
-## About me
-
+</p>
 
 <br/>
 
@@ -16,4 +15,4 @@
 
 ## Design
 
-<a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
+<a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
