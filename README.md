@@ -15,9 +15,3 @@ Tools
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D9C3A9&height=1" width="88%" /> </div> <br>
-Carnet
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B6B4A&icon_color=A9825E&ring_color=6F4E37&title_color=6F4E37" height="150" /> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D9C3A9,100:EFE6DA&height=90&section=footer" width="100%" />
-
-<sub>« Le mieux est l'ennemi du bien. »</sub>
-
-</div>
