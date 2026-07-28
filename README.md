@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EFE6DA,100:D9C3A9&height=150&section=header&text=Shim-geonwoo&fontSize=46&fontColor=3E2C23&fontAlignY=40&desc=PM&descSize=18&descAlignY=63&descColor=6F4E37" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1400&color=6F4E37&center=true&vCenter=true&width=440&height=40&lines=App+Development+&+Design." /> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=A9825E&height=1" width="60%" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EFE6DA,100:D9C3A9&height=150&section=header&text=Shim-geonwoo&fontSize=46&fontColor=3E2C23&fontAlignY=40" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1400&color=6F4E37&center=true&vCenter=true&width=440&height=40&lines=App+Development+and+Design." /> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=A9825E&height=1" width="60%" />
 
 <br><br>
 
