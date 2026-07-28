@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F0E0C8,100:C8A882&height=150&section=header&text=Shim-geonwoo&fontSize=46&fontColor=3A2E24&fontAlignY=40&desc=Project%20Manager&descSize=16&descAlignY=64&descColor=A8452B" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8E9091&height=1" width="60%" />
-
 <br><br>
 
 **Skills**
