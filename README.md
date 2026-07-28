@@ -1,32 +1,30 @@
-<div align="center">
+<div align="center"> 
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EFE6DA,100:D9C3A9&height=140&section=header&text=Shim-geonwoo&fontSize=44&fontColor=3E2C23&fontAlignY=42&desc=quietly%20building%20things&descSize=14&descAlignY=64" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=6F4E37&center=true&vCenter=true&width=440&lines=PM;+fais+des+choses+simples.;Backend+%C2%B7+Interface+%C2%B7+Caf%C3%A9" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:EFE6DA,100:D9C3A9&height=150&section=header&text=Shim-geonwoo&fontSize=46&fontColor=3E2C23&fontAlignY=40&desc=PM&descSize=18&descAlignY=63&descColor=6F4E37" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Gowun+Batang&weight=400&size=20&pause=1400&color=6F4E37&center=true&vCenter=true&width=440&height=40&lines=%EC%95%B1+%EA%B0%9C%EB%B0%9C+%7C+%EB%94%94%EC%9E%90%EC%9D%B8" /> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=A9825E&height=1" width="60%" />
 
 <br><br>
 
-`Seoul` &nbsp;·&nbsp; `Backend` &nbsp;·&nbsp; `Filter Coffee`
+Skills
 
-<img src="https://img.shields.io/badge/-6F4E37?style=flat-square&label=%20&labelColor=6F4E37&color=6F4E37" height="1" width="80%" />
+<img src="https://img.shields.io/badge/TypeScript-6F4E37?style=flat-square&logo=typescript&logoColor=EFE6DA" /> <img src="https://img.shields.io/badge/Python-8B6B4A?style=flat-square&logo=python&logoColor=EFE6DA" /> <img src="https://img.shields.io/badge/PostgreSQL-A9825E?style=flat-square&logo=postgresql&logoColor=EFE6DA" />
 
-</div>
+<br><br>
 
-### propos
+Tools
 
-사소한 것도 기획합니다.
+<img src="https://img.shields.io/badge/Figma-6F4E37?style=flat-square&logo=figma&logoColor=EFE6DA" /> <img src="https://img.shields.io/badge/Illustrator-8B6B4A?style=flat-square&logo=adobeillustrator&logoColor=EFE6DA" /> <img src="https://img.shields.io/badge/Photoshop-A9825E?style=flat-square&logo=adobephotoshop&logoColor=EFE6DA" />
 
-### Outils
+<br><br>
 
-<img src="https://img.shields.io/badge/TypeScript-6F4E37?style=flat-square&logoColor=EFE6DA" />
-<img src="https://img.shields.io/badge/Python-8B6B4A?style=flat-square&logoColor=EFE6DA" />
-<img src="https://img.shields.io/badge/PostgreSQL-A9825E?style=flat-square&logoColor=EFE6DA" />
-<img src="https://img.shields.io/badge/Figma-C4A484?style=flat-square&logoColor=3E2C23" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D9C3A9&height=1" width="88%" /> <br> </div>
+À propos
 
-### Carnet
+기획과 디자인 사이에서 일합니다. 불필요한 걸 덜어내는 쪽으로 만듭니다.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&hide_title=true&hide_border=true&bg_color=EFE6DA&text_color=3E2C23&icon_color=A9825E&ring_color=6F4E37" height="150" />
+<br>
+Carnet
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8B6B4A&icon_color=A9825E&ring_color=6F4E37&title_color=6F4E37" height="150" /> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D9C3A9,100:EFE6DA&height=90&section=footer" width="100%" />
 
-<div align="center">
 <sub>« Le mieux est l'ennemi du bien. »</sub>
+
 </div>
