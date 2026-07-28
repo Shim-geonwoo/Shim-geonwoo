@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EFE6DA,100:D9C3A9&height=140&section=header&text=Shim-geonwoo&fontSize=44&fontColor=3E2C23&fontAlignY=42&desc=quietly%20building%20things&descSize=14&descAlignY=64" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=6F4E37&center=true&vCenter=true&width=440&lines=PM;Je+fais+des+choses+simples.;Backend+%C2%B7+Interface+%C2%B7+Caf%C3%A9" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=6F4E37&center=true&vCenter=true&width=440&lines=PM;+fais+des+choses+simples.;Backend+%C2%B7+Interface+%C2%B7+Caf%C3%A9" />
 
 <br><br>
 
