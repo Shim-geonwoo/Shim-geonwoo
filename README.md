@@ -1,8 +1,11 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=200&section=header&text=Shim%20Geonwoo&fontSize=50&fontColor=FFFFFF"
-    width="100%"
-  />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FFF4D6&background=2F5D50&center=true&vCenter=true&width=1000&height=180&lines=%E2%9C%A6+SHIM+GEONWOO+%E2%9C%A6;CLASS%3A+PROJECT+PLANNER;QUEST%3A+TURN+IDEAS+INTO+REALITY"
+  width="100%"
+  alt="Vintage game banner"
+/>
+
 </div>
 
 <br/>
