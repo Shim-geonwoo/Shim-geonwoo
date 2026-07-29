@@ -9,7 +9,7 @@
 
 ### 🗺️ Quest Log
 
-<table width="100%">
+<table width="300%">
   <tr>
     <td width="80%">
       <strong>MLM Project</strong><br/>
