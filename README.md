@@ -7,6 +7,50 @@
 
 <br/>
 
+## Player Profile
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+<h3>🪪 Player Info</h3>
+
+<strong>Name</strong><br/>
+Shim Geonwoo
+
+<br/><br/>
+
+<strong>Class</strong><br/>
+Project Manager
+
+<br/><br/>
+
+<strong>Major</strong><br/>
+Business Administration<br/>
+Big Data Application
+
+  </td>
+
+  <td width="50%" align="center" valign="top">
+
+<h3>🌱 Abilities</h3>
+
+Project Planning<br/>
+Data Analysis<br/>
+UX/UI Design<br/>
+Editorial Design
+
+<br/><br/>
+
+<strong>Current Level</strong><br/>
+LV. 28
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
 ### 🪻Skills
 
 <p>
