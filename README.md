@@ -9,9 +9,9 @@
 
 ### 🗺️ Quest Log
 
-<table width="300%">
+<table width="100%">
   <tr>
-    <td width="120%">
+    <td width="70%">
       <strong>MLM Project</strong><br/>
       청년 작가를 위한 전시 플랫폼 기획
     </td>
@@ -36,7 +36,7 @@
       공연·전시 예매 및 아카이빙 서비스
     </td>
     <td align="center">
-      🌱 In Progress
+      🌱 Progress
     </td>
   </tr>
 </table>
