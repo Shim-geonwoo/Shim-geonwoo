@@ -7,24 +7,37 @@
 
 <br/>
 
-## ⚔️ Skills
+## 🗺️ Quest Log
 
 <table width="100%">
   <tr>
-    <td width="30%">Project Planning</td>
-    <td>█████████░ 90%</td>
+    <td width="65%">
+      <strong>MLM Project</strong><br/>
+      청년 작가를 위한 전시 플랫폼 기획
+    </td>
+    <td align="center">
+      ✅ Completed
+    </td>
   </tr>
+
   <tr>
-    <td>Data Analysis</td>
-    <td>████████░░ 80%</td>
+    <td>
+      <strong>Gyeongbuk Tourism Project</strong><br/>
+      관광 데이터 분석 및 정책 기획
+    </td>
+    <td align="center">
+      ✅ Completed
+    </td>
   </tr>
+
   <tr>
-    <td>UX/UI Design</td>
-    <td>███████░░░ 70%</td>
-  </tr>
-  <tr>
-    <td>Editorial Design</td>
-    <td>███████░░░ 70%</td>
+    <td>
+      <strong>ART PORT</strong><br/>
+      공연·전시 예매 및 아카이빙 서비스
+    </td>
+    <td align="center">
+      🌱 In Progress
+    </td>
   </tr>
 </table>
 
