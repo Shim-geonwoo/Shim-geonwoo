@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=checkered&color=5B4B8A&height=300&section=header&text=Shim-geonwoo&fontSize=90"
+    src="https://capsule-render.vercel.app/api?type=checkered&color=5B4B8A&height=250&section=header&text=Shim-geonwoo&fontSize=90&fontColor=FFFFFF"
     width="100%"
   />
 </div>
@@ -23,4 +23,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=checkere&color=5B4B8A&height=180&section=footer" width="100%"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=5B4B8A&height=180&section=footer" width="100%"/> </div>
