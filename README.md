@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shim-geonwoo%20|%20Project Manager&fontSize=90" />
 
 ## Skills
 
@@ -19,3 +19,5 @@
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=footer" width="100%"/> </div>
