@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-### 💐 Quest Log
+### 🗺️ Quest Log
 
 <table width="100%">
   <tr>
@@ -60,6 +60,18 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 🎨 Design Archive
+
+<p>
+Collected visual works, exhibitions and design experiments.
+</p>
+
+<a href="https://www.instagram.com/mind_shim">
+  <img src="https://img.shields.io/badge/Open_Design_Archive-176B6B?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 <br/><br/>
 
