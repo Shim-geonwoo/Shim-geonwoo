@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-### 🗺️ Quest Log
+### 💐 Quest Log
 
 <table width="100%">
   <tr>
