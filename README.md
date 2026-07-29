@@ -7,34 +7,6 @@
 
 <br/><br/>
 
-## About Me
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-
-<h3>Who am I</h3>
-
-경영학 학사<br>
-빅데이터응용학 석사<br>
-MLM 프로젝트 기획<br>
-경북관광 프로젝트 데이터 분석
-
-  </td>
-
-  <td width="50%" align="center" valign="top">
-
-<h3>What can I do</h3>
-
-프로젝트 기획<br>
-데이터 분석<br>
-UX/UI 디자인<br>
-편집 디자인
-
-  </td>
-  </tr>
-</table>
-
 <hr>
 
 <br/><br/>
