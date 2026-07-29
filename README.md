@@ -36,7 +36,7 @@
       공연·전시 예매 및 아카이빙 서비스
     </td>
     <td align="center">
-      🌱 Progress
+      🌱  In Progress
     </td>
   </tr>
 </table>
