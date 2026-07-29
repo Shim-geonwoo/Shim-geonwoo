@@ -11,7 +11,7 @@
 
 <table width="300%">
   <tr>
-    <td width="80%">
+    <td width="120%">
       <strong>MLM Project</strong><br/>
       청년 작가를 위한 전시 플랫폼 기획
     </td>
