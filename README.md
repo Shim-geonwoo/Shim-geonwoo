@@ -1,13 +1,9 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=180&section=header&text=Shim%20Geonwoo&fontSize=50&fontColor=FFFFFF"
+  src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=600&size=42&duration=3500&pause=1200&color=F3E9D2&background=176B6B&center=true&vCenter=true&width=1000&height=180&lines=Shim+Geonwoo;Project+Planner+%26+Data+Explorer;Welcome+to+my+little+garden"
   width="100%"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=24&duration=3200&pause=1000&color=8B7355&center=true&vCenter=true&width=700&height=70&lines=Project+Planner+%C2%B7+Data+Explorer;Designing+ideas+into+experiences"
-  alt="Typing introduction"
+  alt="Typing SVG"
 />
 
 </div>
