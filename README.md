@@ -20,6 +20,7 @@
 <br/>
 
 ### 🌿Design Archive
+<hr>
 <p>
 Collected visual works, exhibitions and design experiments.
 </p>
