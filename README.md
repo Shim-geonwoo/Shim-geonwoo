@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br/>
+<br/><br/>
 
 ### 🗺️ Quest Log
 
@@ -63,20 +63,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-### 🪙 Collection
-
-<p>
-  🪻 Blue Delphinium
-  &nbsp;&nbsp;
-  🌿 Forest Leaf
-  &nbsp;&nbsp;
-  🎟️ Art Ticket
-  &nbsp;&nbsp;
-  🧭 Project Compass
-</p>
 
 <br/><br/>
 
