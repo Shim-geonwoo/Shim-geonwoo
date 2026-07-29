@@ -3,6 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=200&section=header&text=Shim%20Geonwoo&fontSize=50&fontColor=FFFFFF"
     width="100%"
   />
+</div>
 
 <br/>
 
@@ -65,6 +66,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=50&section=footer" width="100%"/> </div>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=50&section=footer" width="100%"/> </div>
