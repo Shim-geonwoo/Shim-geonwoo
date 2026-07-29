@@ -13,6 +13,8 @@
 
 </div>
 
+<br/>
+
 ### ⚔️Skills
 
 <p>
@@ -26,7 +28,7 @@
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
 </p>
 
-<br/><br/>
+<br/>
 
 ### ✒️Design
 
@@ -34,7 +36,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br/><br/>
+<br/>
 
 </div>
 
