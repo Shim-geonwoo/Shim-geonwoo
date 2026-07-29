@@ -32,4 +32,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=100&section=footer" width="100%"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=50&section=footer" width="100%"/> </div>
