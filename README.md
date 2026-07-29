@@ -22,6 +22,12 @@
 
 <br/><br/>
 
+<div align="center">
+
+🪻 · 🌿 · 🪻 · 🌿 · 🪻
+
+</div>
+
 ### ✒️Design
 
 <a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
