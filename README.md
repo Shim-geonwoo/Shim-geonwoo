@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<br/>
+<br/><br/>
 
 🪻 · 🌿 · 🪻 · 🌿 · 🪻
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<br/>
+<br/><br/>
 
 </div>
 
