@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=200&section=header&text=Shim-geonwoo&fontSize=50&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=200&section=header&text=Shim%20Geonwoo&fontSize=50&fontColor=FFFFFF"
     width="100%"
   />
 </div>
