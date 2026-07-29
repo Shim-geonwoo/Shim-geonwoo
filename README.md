@@ -19,7 +19,10 @@
 
 <br/>
 
-### 🌿Design
+### 🌿Design Archive
+<p>
+Collected visual works, exhibitions and design experiments.
+</p>
 
 <a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -60,18 +63,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 🎨 Design Archive
-
-<p>
-Collected visual works, exhibitions and design experiments.
-</p>
-
-<a href="https://www.instagram.com/mind_shim">
-  <img src="https://img.shields.io/badge/Open_Design_Archive-176B6B?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
 <br/><br/>
 
