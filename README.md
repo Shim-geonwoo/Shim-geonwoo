@@ -7,6 +7,29 @@
 
 <br/>
 
+### 🪻Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+</p>
+
+<br/>
+
+### 🌿Design
+
+<a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br/>
+
 ### 🗺️ Quest Log
 
 <table width="100%">
@@ -36,33 +59,24 @@
       공연·전시 예매 및 아카이빙 서비스
     </td>
     <td align="center">
-      🌱  In Progress
+      🌱 In Progress
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🪻Skills
+### 🪙 Collection
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+  🪻 Blue Delphinium
+  &nbsp;&nbsp;
+  🌿 Forest Leaf
+  &nbsp;&nbsp;
+  🎟️ Art Ticket
+  &nbsp;&nbsp;
+  🧭 Project Compass
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-</p>
-
-<br/>
-
-### 🌿Design
-
-<a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
 <br/><br/>
 
