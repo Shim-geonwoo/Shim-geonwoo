@@ -7,11 +7,11 @@
 
 <br/>
 
-## 🗺️ Quest Log
+### 🗺️ Quest Log
 
 <table width="100%">
   <tr>
-    <td width="65%">
+    <td width="80%">
       <strong>MLM Project</strong><br/>
       청년 작가를 위한 전시 플랫폼 기획
     </td>
