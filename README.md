@@ -7,6 +7,12 @@
 
 <br/><br/>
 
+<div align="center">
+
+🪻 · 🌿 · 🪻 · 🌿 · 🪻
+
+</div>
+
 ### ⚔️Skills
 
 <p>
@@ -21,12 +27,6 @@
 </p>
 
 <br/><br/>
-
-<div align="center">
-
-🪻 · 🌿 · 🪻 · 🌿 · 🪻
-
-</div>
 
 ### ✒️Design
 
