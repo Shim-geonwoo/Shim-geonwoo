@@ -32,8 +32,10 @@
 <table width="100%">
   <tr>
     <td width="70%">
-      <strong>MLM Project</strong><br/>
-      청년 작가를 위한 전시 플랫폼 기획
+      <small>
+        <strong>MLM Project</strong><br/>
+        청년 작가를 위한 전시 플랫폼 기획
+      </small>
     </td>
     <td align="center">
       ✅ Completed
@@ -42,8 +44,10 @@
 
   <tr>
     <td>
-      <strong>Gyeongbuk Tourism Project</strong><br/>
-      관광 데이터 분석 및 정책 기획
+      <small>
+        <strong>Gyeongbuk Tourism Project</strong><br/>
+        관광 데이터 분석 및 정책 기획
+      </small>
     </td>
     <td align="center">
       ✅ Completed
@@ -52,8 +56,10 @@
 
   <tr>
     <td>
-      <strong>ART PORT</strong><br/>
-      공연·전시 예매 및 아카이빙 서비스
+      <small>
+        <strong>ART PORT</strong><br/>
+        공연·전시 예매 및 아카이빙 서비스
+      </small>
     </td>
     <td align="center">
       🌱 In Progress
