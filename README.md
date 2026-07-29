@@ -7,10 +7,6 @@
 
 <br/><br/>
 
-<hr>
-
-<br/><br/>
-
 ### ⚔️Skills
 
 <p>
