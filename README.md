@@ -7,10 +7,6 @@
 
 <br/><br/>
 
-<hr>
-
-<br/><br/>
-
 ## About Me
 
 <table>
@@ -37,10 +33,6 @@
   </td>
   </tr>
 </table>
-
-<hr>
-
-<br/><br/>
 
 <hr>
 
