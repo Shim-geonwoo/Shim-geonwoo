@@ -74,4 +74,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=checkered&color=176B6B&height=50&section=footer" width="100%"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2F5D50&height=50&section=footer" width="100%"/> </div>
