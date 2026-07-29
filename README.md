@@ -7,6 +7,33 @@
 
 <br/><br/>
 
+<hr>
+
+<br/><br/>
+
+## About Me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Who am I
+
+- 경영학 학사
+- 빅데이터응용학 석사
+- MLM프로젝트 기획
+- 경북관광프로젝트 데이터분
+
+  </td>
+  <td width="50%" valign="top">
+
+### What can I do
+
+- 프로젝트 기획
+- 데이터 분석
+- UX/UI 디자인
+- 편집 디자인
+
 ### ⚔️Skills
 
 <p>
@@ -19,6 +46,10 @@
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
 </p>
+
+<br/><br/>
+
+<hr>
 
 <br/><br/>
 
