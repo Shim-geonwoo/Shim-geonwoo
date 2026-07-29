@@ -22,10 +22,6 @@
 
 <br/><br/>
 
-<hr><hr>
-
-<br/><br/>
-
 ### ✒️Design
 
 <a href="https://www.instagram.com/mind_shim?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
