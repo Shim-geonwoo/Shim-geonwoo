@@ -7,7 +7,7 @@
 
 <br/>
 
-### 🪻Skills
+## 🪻Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -19,8 +19,7 @@
 
 <br/>
 
-### 🌿Design Archive
-<hr>
+## 🌿Design Archive
 <p>
 Collected visual works, exhibitions and design experiments.
 </p>
@@ -31,7 +30,7 @@ Collected visual works, exhibitions and design experiments.
 
 <br/><br/>
 
-### 🗺️ Quest Log
+## 🗺️ Quest Log
 
 <table width="100%">
   <tr>
